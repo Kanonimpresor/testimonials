@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="Testimonials" lan="LAN_PLUGIN_TESTIMONIALS_NAME" version="4.0" date="2026-03-07" compatibility="2.3.1" installRequired="true" >
+	<author name="lonalore" url="http://lonalore.hu" />
+	<summary lan="LAN_PLUGIN_TESTIMONIALS_SUMM">Simple testimonials plugin.</summary>
+	<description lan="LAN_PLUGIN_TESTIMONIALS_DESC">Simple testimonials plugin.</description>
+	<keywords>
+		<word>testimonials</word>
+		<word>quotes</word>
+	</keywords>
+	<category>content</category>
+	<copyright></copyright>
+	<adminLinks>
+		<link url="admin_config.php" description="" icon="images/testimonials_32.png" iconSmall="images/testimonials_16.png" primary="true" >LAN_CONFIGURE</link>
+	</adminLinks>
+	<siteLinks>
+		<link url="{e_PLUGIN}testimonials/testimonials.php" perm="everyone" sef="testimonials">LAN_PLUGIN_TESTIMONIALS_LINK</link>
+	</siteLinks>
+	<pluginPrefs>
+		<pref name='tm_menu_items'>3</pref>
+		<pref name='tm_submit_role'>253</pref>
+		<pref name='tm_use_captcha'>1</pref>
+		<pref name='tm_approval'>1</pref>
+		<pref name='tm_trim'>250</pref>
+	</pluginPrefs>
+</e107Plugin>
