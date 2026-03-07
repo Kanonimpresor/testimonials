@@ -1,5 +1,11 @@
 # Testimonials Plugin for e107
 
+#### (Elija su idioma abajo / Choose your language below / Escolha o seu idioma abaixo)
+
+[![Language-English](https://img.shields.io/badge/Language-English-blue)](README.md) 
+[![Language-Português](https://img.shields.io/badge/Language-Português-green)](README.pt-PT.md) 
+[![Language-Español](https://img.shields.io/badge/Language-Español-red)](README.es-ES.md) 
+
 A modern testimonials plugin for **e107 v2.x** that displays customer testimonials in a Bootstrap 5 carousel and provides a front-end submission form.
 
 ## Features
