@@ -121,7 +121,7 @@ To add a new language, create a folder under `languages/` with the e107 language
 ## Credits
 
 - **Original Author**: [lonalore](http://lonalore.hu) (v3.0, 2015)
-- **Modernized by**: Royal Bus project team (2026)
+- **Modernized by**: Kanonimpresor project team (2026)
 - **Theme**: Aeolus for e107 by [Jimako](https://www.e107sk.com)
 
 ## License
